@@ -1,0 +1,11 @@
+name: GaineeAnnouncements
+version: 1.0
+author: Citrus
+main: com.gainee.announcements.Main
+depend: [Essentials]
+
+commands:
+  gaineeannouncements:
+    description: Anons plugini ana komutu
+    aliases: [gannouncements, anons, gaineeannouncements, ga, gaineeannouncement, gaineeanons, ganons]
+    permission: gaineeannounce.admin

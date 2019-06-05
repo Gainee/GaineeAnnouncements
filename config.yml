@@ -1,0 +1,82 @@
+
+
+                           #!    ▄█▀▀█▄  ▄█▀▀█▄  ▀▀██▀▀  ▄█▀▀█▄  ██▀▀▀▀  ██▀▀▀▀    !#
+                           #!    ██ ▄▄▄  ██▄▄██    ██    ██  ██  ██▀▀    ██▀▀      !#
+                           #!    ▀█▄▄█▀  ██  ██  ▄▄██▄▄  ██  ██  ██▄▄▄▄  ██▄▄▄▄    !#
+                           
+#!    ▄█▀▀█▄  ▄█▀▀█▄  ▄█▀▀█▄  ▄█▀▀█▄  ██  ██  ▄█▀▀█▄  ▄█▀▀█▄  ██▀▀▀▀  █▄  ▄█  ██▀▀▀▀  ▄█▀▀█▄  ▀▀██▀▀  ██▀▀▀▀    !#
+#!    ██▄▄██  ██  ██  ██  ██  ██  ██  ██  ██  ██  ██  ██      ██▀▀    ██████  ██▀▀    ██  ██    ██    ▀▀█▄▄▄    !#
+#!    ██  ██  ██  ██  ██  ██  ▀█▄▄█▀  ▀█▄▄█▀  ██  ██  ▀█▄▄█▀  ██▄▄▄▄  ██  ██  ██▄▄▄▄  ██  ██    ██    ▄▄▄▄██    !#
+
+
+
+#!    » ADMIN PERMISSION: gaineeannounce.admin
+
+#!    » İLETİŞİM «
+#!    - Website: https://citrusdesign.xyz
+#!    - Discord: Citrus#4361
+#!    - E-Mail: me@citrusdesign.xyz
+
+#!    » SES LİSTESİ «
+#!    - https://citrusdesign.xyz/gainee-sound.txt
+
+#!    » Pluginimi kullandığın için teşekkürler! Eğer bug veya başka birşeyler bulursan benimle iletişime geç.
+#!    - Citrus
+
+
+Ayarlar:
+  Zaman: 6000 # Anonslar arası bekleme süresi (saniye)
+  Yardım:
+  - ""
+  - "&b&l» &7GaineeAnnouncements"
+  - ""
+  - "&f- /ga göster <anons-adı> - &7Anonsu sana gösterir."
+  - "&f- /ga reload - &7Configi yeniler."
+  - "&f- /ga gönder <anons-adı> - &7Herkese belirlenen anonsu yollar."
+  - ""
+Anonslar:
+  Twitter:
+    Ses:
+      durum: true
+      ses-ismi: CHICKEN_EGG_POP
+      ses-kuvveti: 1.0
+      pitch: 1.5
+    adet: 1
+    ortalama: true
+    satırlar:
+    - ""
+    - "&b&lTWITTER"
+    - "&r"
+    - "&fEğer twitterdan bizi takip etmiyorsan"
+    - "&b@benimsunucum &fhemen takip et!"
+    - ""
+  Facebook:
+    Ses:
+      durum: true
+      ses-ismi: CHICKEN_EGG_POP
+      ses-kuvveti: 1.0
+      pitch: 1.5
+    adet: 1
+    ortalama: true
+    satırlar:
+    - ""
+    - "&1&lFACEBOOK"
+    - "&r"
+    - "&fEğer facebook üzerinden bizi takip etmiyorsan"
+    - "&1fb.com/benimsunucum &fhemen takip et!"
+    - ""
+  Youtube:
+    Ses:
+      durum: true
+      ses-ismi: CHICKEN_EGG_POP
+      ses-kuvveti: 1.0
+      pitch: 1.5
+    adet: 1
+    ortalama: true
+    satırlar:
+    - ""
+    - "&c&lYOUTUBE"
+    - "&r"
+    - "&fEğer youtube üzerindne bizi takip etmiyorsan"
+    - "&cyoutube.com/channel/benimsunucum &fhemen takip et!"
+    - ""
